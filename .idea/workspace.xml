@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="199b33c9-ac00-4ee6-a83c-02b51dfa1996" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pages/style/All.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/style/Card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/style/Fairs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/All.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/All.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Exhibition.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Exhibition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Fai.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Fai.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Festivals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Festivals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Free.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Free.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Kids.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Kids.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sport.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/Footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/Footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/Hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/Hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Sass File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29XbM5zFWgMSz9tZwbH78ARSf9N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\react\afisha12\src\pages\style" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="199b33c9-ac00-4ee6-a83c-02b51dfa1996" name="Changes" comment="" />
+      <created>1653262326783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653262326783</updated>
+      <workItem from="1653262327919" duration="192000" />
+      <workItem from="1653262664549" duration="669000" />
+      <workItem from="1653263356569" duration="8468000" />
+      <workItem from="1653289963985" duration="9000" />
+      <workItem from="1653290277735" duration="886000" />
+      <workItem from="1653345390706" duration="2220000" />
+      <workItem from="1653354344877" duration="8322000" />
+      <workItem from="1653373771909" duration="893000" />
+      <workItem from="1653519884298" duration="619000" />
+      <workItem from="1653520674363" duration="326000" />
+      <workItem from="1653522852657" duration="642000" />
+      <workItem from="1653578342198" duration="1320000" />
+      <workItem from="1653607163893" duration="3310000" />
+      <workItem from="1653793652307" duration="2895000" />
+      <workItem from="1653952412462" duration="2079000" />
+      <workItem from="1653959901002" duration="620000" />
+      <workItem from="1654122694073" duration="1276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

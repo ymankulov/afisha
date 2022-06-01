@@ -1,0 +1,21 @@
+.title {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    margin-left: -1100px;
+    margin-top: 40px;
+    color: #FFFFFF;
+}
+.all__card {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+

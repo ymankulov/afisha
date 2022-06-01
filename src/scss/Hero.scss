@@ -1,0 +1,35 @@
+#hero{
+  .hero__rout{
+    background: #303665;
+    border-radius: 39px;
+    height: 48px;
+    width: 95%;
+    margin-left: 20px;
+
+    &--text{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: white;
+      margin-left: 80px;
+      margin-right: 80px;
+      flex-wrap: wrap;
+      padding: 10px;
+    }
+    &--link{
+      color: #f8f8f8;
+      font-size: 20px;
+      padding: 10px;
+      text-decoration: none;
+      &:hover{
+        text-decoration: underline;
+      }
+
+
+
+
+    }
+  }
+
+
+}

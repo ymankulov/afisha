@@ -1,0 +1,36 @@
+#header{
+  .header__body{
+    display: flex;
+    padding: 4%;
+    &--head{
+      color: #f8f8f8;
+      font-size: xxx-large;
+      &__span{
+        color: blue;
+        font-size: xxx-large;
+      }
+    }
+    &__headers {
+      position: relative;
+      border-radius: 15px;
+      width: 25%;
+      height: 50px;
+      background: rgba(122, 122, 122, 0.45);
+      font-size: 20px;
+      padding:0 20px ;
+      margin: 0 auto;
+      top: -11px;
+      border: none;
+    }
+    &--icon{
+      position: absolute;
+      left: 66%;
+      font-size: 25px;
+      top: 70px;
+    }
+  }
+}
+.asd {
+  font-size: 34px;
+  color: #fff;
+}
